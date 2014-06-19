@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/Storage_1/fin_build_v2.3/create-table.cpp
+stdio.h
+-
+stdlib.h
+-
+sqlite3.h
+-
+sys/stat.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/create-table.dir/create-table.cpp.o  -o create-table -rdynamic -lsqlite3 
